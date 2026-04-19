@@ -1,3 +1,11 @@
+#########################################################################
+# MIPS Arcade Game
+# Developed by: Giorgia Manocchio
+# Year: 2025
+# Description: A retro arcade game using MMIO and manual polling.
+#########################################################################
+
+
 .data
 	# store location as x/y coordinates
 	player_x: .word 0

@@ -31,3 +31,7 @@ Once you choose an initial direction, the player moves automatically.
     • In the tool window, click Connect to MIPS
   5. Press the Run icon (the green play button)
   6. Click inside the keyboard text area of the MMIO Simulator tool to enter commands (W/A/S/D)
+
+
+## 📂 Additional Resources
+- [Technical Remarks & Implementation Details](./dev.md)
